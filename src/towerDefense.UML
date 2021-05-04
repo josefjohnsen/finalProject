@@ -1,1 +1,55 @@
+//Tower Defense
+//Josef Johnsen
 
+//TODO
+//create lazer from tower to ship
+int c;
+ArrayList<Lazer> lazers;
+ArrayList<Ship> ships;
+ArrayList<Tower> towers;
+ArrayList<Timer> timers;
+ArrayList<Timer> timers2;
+
+
+
+void setup() {
+  size(500, 500);
+  c = 255;
+  ships = new ArrayList();
+  lazers = new ArrayList();
+  towers = new ArrayList();
+  timers = new ArrayList();
+
+
+}
+
+void draw() {
+  background(c);
+  detectShip();
+  lazerShooting();
+  objectDisplay();
+
+}
+
+
+
+void detectShip() {
+
+
+  
+}
+
+void lazerShooting() {
+  }
+
+
+void mousePressed() {
+ 
+}
+
+void keyPressed() {
+}
+
+void objectDisplay() {
+ 
+}
