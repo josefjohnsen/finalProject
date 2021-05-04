@@ -1,0 +1,15 @@
+class Tower{
+  //member variables
+  int type,health,x,y,xlength,ywidth,xcenter,ycenter,radius;
+  
+  //constructor
+  Tower(int x, int y){
+    this.x = x;
+    this.y = y;
+   
+  }
+  
+  //methods
+  void display(){
+  
+}
