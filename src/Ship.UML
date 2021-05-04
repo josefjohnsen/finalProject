@@ -1,0 +1,19 @@
+class Ship {
+  //member variables
+  int type,health,x,y,xcenter,ycenter,speed;
+  
+  //constructor
+  Ship(int x, int y){
+    this.x = x;
+    this.y = y;
+
+  }
+  
+  //methods
+  
+
+  
+  
+   void display(){
+  
+}
