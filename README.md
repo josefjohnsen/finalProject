@@ -10,4 +10,4 @@
 
 ![Snake](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/Snake%20Game.png?raw=true)
 
-### https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/mockup.png?raw=true
+![MockUp](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/mockUp%20(1).png?raw=true)
