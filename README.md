@@ -2,12 +2,12 @@
 
 # Name:
 
-## Tower Defense
+## Snake Game
 
 ### By Josef Johnsen 
 
-### Tower Defense game with the objective to complete the levels and eleminate the space ships with the space forts places around the screen.
+### A remake of the clasic game called Snake. Move with WASD and collect as much food as posible without running into yourself or out of bounds!
 
-### !https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/Snake%20Game.png?raw=true
+### [Snake]!https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/Snake%20Game.png?raw=true
 
 ### https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/mockup.png?raw=true
