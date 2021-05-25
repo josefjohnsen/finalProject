@@ -11,3 +11,5 @@
 ![Snake](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/snakeUML.png?raw=true)
 
 ![MockUp](https://github.com/josefjohnsen/finalProject/blob/gh-pages/images/mockUp%20(1).png?raw=true)
+
+Source code for project [here.](https://github.com/josefjohnsen/finalProject/tree/gh-pages/src)
